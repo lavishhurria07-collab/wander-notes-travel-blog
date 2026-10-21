@@ -1,0 +1,276 @@
+body{
+    background-color: #F8F3EB ;
+}
+#box1 { 
+    height: 60px ; 
+    width: 1370px ;
+    background-color: #E7D8C5 ;
+    color: #292923 ;
+    border: 1px solid #E7D8C5 ;
+    border-radius: 10px ;
+    padding: 40px;
+    margin-left: 30px;
+}
+a { 
+    margin-left: 30px ;
+    
+}
+#heading1 { 
+    display: inline-block ;
+    font-size: 34px;
+    margin-right: 700px;
+}
+#box2 { 
+    height: 300px ; 
+    width: 1370px ;
+    background-color: #DDE3D3 ;
+    margin-top: 30px ; 
+    border: 1px solid  #DDE3D3;
+    border-radius: 10px ;
+    color: white ; 
+    background-image: url(Manali.jpg.jpg); 
+    background-size: cover;
+    background-position: center;
+    padding: 40px;
+    margin-left: 30px;
+}
+button { 
+    background-color: #B96545;
+    color: white;
+    padding: 12px 24px;
+    border-radius: 10px ;
+    font-size: 16px;
+}
+#text1{
+    color: #292923 ; 
+}
+#text2 { 
+    font-size: 18px;
+}
+#text3 {
+    color: #292923;
+    font-size: 22px;
+    font-weight: 600;
+}
+#box3 { 
+    height: 600px ; 
+    width: 1370px ;
+    background-color: #E7D8C5;
+    display: inline-block;
+    margin-top: 30px;
+    border-radius: 10px;
+    padding: 40px;
+    margin-left: 30px;
+}
+#Manali { 
+    background-color: white ; 
+    border: 2px solid white ;
+    border-radius: 10px ;
+    height: 400px ; 
+    width: 350px ;
+    margin-left: 30px;
+    display: inline-block;
+}
+#child1 { 
+    background-color: #B96545 ; 
+    border: 2px solid white ;
+    border-radius: 10px ;
+    height: 250px ; 
+    width: 300px ;
+    display: inline-block;
+    margin-top: 30px;
+    margin-left: 20px;
+    z-index: 2;
+    background-image: url("Manali.jpg.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#Jaipur { 
+    background-color: white ; 
+    border: 2px solid white ;
+    border-radius: 10px ;
+    height:400px ; 
+    width: 350px ;
+    display: inline-block;
+    margin-left: 120px;
+}
+#child2 { 
+    background-color: #B96545 ; 
+    border: 2px solid white ;
+    border-radius: 10px ;
+    height: 250px ; 
+    width: 300px ;
+    display: inline-block;
+    margin-top: 30px;
+    margin-left: 20px;
+    z-index: 2;
+    background-image: url("Jaipur.jpg.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#Bali { 
+    background-color: white ; 
+    border: 2px solid white ;
+    border-radius: 10px ;
+    height: 400px ; 
+    width: 350px ;
+    display: inline-block;
+    margin-left: 120px;
+}
+#child3 { 
+    background-color: #B96545 ; 
+    border: 2px solid white ;
+    border-radius: 10px ;
+    height: 250px ; 
+    width: 300px ;
+    display: inline-block;
+    margin-top: 30px;
+    margin-left: 20px;
+    z-index: 2;
+    background-image: url("Bali.jpg.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#box4 { 
+    height: 110px ; 
+    width: 1370px ;
+    background-color: #879879;
+    display: inline-block;
+    border-radius: 10px;
+    margin-top: 30px;
+    padding: 40px;
+    margin-left: 30px;
+}
+#text6 { 
+    color: #292923;
+    font-size: 26px;
+    font-weight: 500;
+}
+#text7 { 
+    color: #292923;
+    font-size: 22px;
+    font-weight: 400;
+}
+#box5 { 
+    height: 700px ; 
+    width: 1370px ;
+    background-color: #E7D8C5;
+    display: inline-block;
+    margin-top: 30px;
+    border-radius: 10px;
+    padding: 40px;
+    margin-left: 30px;
+}
+#Track { 
+    background-color: white ; 
+    border: 2px solid white ;
+    border-radius: 10px ;
+    height: 500px ; 
+    width: 350px ;
+    margin-left: 30px;
+    display: inline-block;
+}
+#child4 { 
+    background-color: #B96545 ; 
+    border: 2px solid white ;
+    border-radius: 10px ;
+    height: 250px ; 
+    width: 300px ;
+    display: inline-block;
+    margin-top: 30px;
+    margin-left: 20px;
+    z-index: 2;
+    background-image: url("tungnath.jpg.jpg");
+    background-size: cover;
+}
+#Vrindavan { 
+    background-color: white ; 
+    border: 2px solid white ;
+    border-radius: 10px ;
+    height: 500px ; 
+    width: 350px ;
+    margin-left: 100px;
+    display: inline-block;
+}
+#child5 { 
+    background-color: #B96545 ; 
+    border: 2px solid white ;
+    border-radius: 10px ;
+    height: 250px ; 
+    width: 300px ;
+    display: inline-block;
+    margin-top: 30px;
+    margin-left: 20px;
+    z-index: 2;
+    background-image: url("vrindavan.jpg.jpg");
+    background-size: cover;
+}
+#Rishikesh { 
+    background-color: white ; 
+    border: 2px solid white ;
+    border-radius: 10px ;
+    height: 500px ; 
+    width: 350px ;
+    margin-left: 100px;
+    display: inline-block;
+}
+#child6 { 
+    background-color: #B96545 ; 
+    border: 2px solid white ;
+    border-radius: 10px ;
+    height: 250px ; 
+    width: 300px ;
+    display: inline-block;
+    margin-top: 30px;
+    margin-left: 20px;
+    z-index: 2;
+    background-image: url("rishikesh.jpg.jpg");
+    background-size: cover;
+}
+#box6 { 
+    height: 500px;
+    width: 1370px ;
+    background-color: #E7D8C5;
+    display: inline-block;
+    margin-top: 110px;
+    border-radius: 10px;
+    padding: 40px;
+    margin-left: -37px; 
+    margin-bottom: 10px;
+    position: relative;
+}
+#foot {
+    height: 130px;
+    width: 600px;
+    background-color: #E7D8C5;
+    display: inline-block;
+    margin-top: 20px;
+}
+#image {
+    background-color: white;
+    border-radius: 10px;
+    height: 500px;
+    width: 480px;
+
+    position: absolute;
+    top: 40px;
+    right: 40px;
+
+    background-image: url(about.jpg.jpg);
+    background-size: cover;
+    background-position: center;
+}
+#box7 { 
+    height: 270px ; 
+    width: 1370px ;
+    background-color: #E7D8C5;
+    border-radius: 10px;
+    padding: 40px;
+    margin-top: 20px;
+    margin-left: -37px;
+}
+.copyright {
+    font-size: 28px;
+    margin-top: 20px;
+    text-align: center;
+}
